@@ -1,0 +1,13 @@
+a:hover {
+  color: white;
+  text-decoration: none;
+}
+
+a {
+  color: #1b5e20; 
+}
+
+/* Join In section */
+.join-in__button {
+  left: 50%;
+}
